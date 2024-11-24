@@ -1,1 +1,21 @@
+# Flutter/Dart specific
+*.dart_tool/
+*.flutter-plugins
+*.flutter-plugins-dependencies
+*.packages
+.packages
+.pub-cache/
+.idea/
+.vscode/
 
+# Build outputs
+build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# MacOS
+*.DS_Store
+
+# Others
+*.log
